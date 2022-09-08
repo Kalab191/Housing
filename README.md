@@ -1,2 +1,2 @@
 # Housing
-Hosuing Prices project
+Housing Prices project
